@@ -17,6 +17,6 @@ Verify PIN OK: `True`
  Withdraw 999999999: **Insufficient funds**
 
 
-![Demo CMD]()
+![Demo CMD](https://github.com/n23dcpt013-wq/lab07/blob/main/cmd.png)
 ![Transactions]()
 
